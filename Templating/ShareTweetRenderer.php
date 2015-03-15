@@ -26,6 +26,9 @@ use Elcodi\Component\Plugin\Templating\Traits\TemplatingTrait;
 use Elcodi\Component\Product\Entity\Interfaces\CategoryInterface;
 use Elcodi\Component\Product\Entity\Product;
 
+/**
+ * Class ShareTweetRenderer
+ */
 class ShareTweetRenderer
 {
     use TemplatingTrait;
